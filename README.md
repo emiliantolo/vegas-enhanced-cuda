@@ -1,4 +1,6 @@
-# **Vegas Enhanced Cuda - Advanced Computing Architectures - Project**
+# **Vegas Enhanced Cuda**
+
+## **Advanced Computing Architectures - Project**
 
 CUDA Implementation of Vegas Enhanced Algorithm
 
@@ -17,8 +19,12 @@ Tested on Windows 11 22H2, nvcc V11.5.50, MSVC 19.29
 
 ### **Build**
 
-    nmake build
+    nmake
 
 ### **Run**
 
     .\bin\gpu_batch.exe
+
+## **Report**
+
+[Report](https://github.com/emiliantolo/vegas-enhanced-cuda/blob/main/report.pdf)
